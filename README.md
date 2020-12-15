@@ -1,3 +1,0 @@
-# djangogirls
-learning Django
-# djangogirls
